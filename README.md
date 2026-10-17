@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я hashy143 (Роман) ??</h1>
+<h1 align="center">Привет, я hashy143 (Роман) 👋</h1>
 
 <p align="center">
   Изучаю программирование и пишу небольшие проекты, в том числе плагины для Vencord.
@@ -6,7 +6,7 @@
 
 ---
 
-## ?? Стек
+## 🛠 Стек
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
@@ -15,11 +15,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## ?? Изучаю
+## 🌱 Изучаю
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-## ?? Статистика
+## 📊 Статистика
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hashy143&show_icons=true&theme=dark&hide_border=true" alt="Статистика GitHub" />
