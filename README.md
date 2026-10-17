@@ -1,1 +1,27 @@
-<h1 align="center">Привет, я hashy143 (Роман) ??</h1><p align="center">  Изучаю программирование и пишу небольшие проекты, в том числе плагины для Vencord.</p>---## ?? Стек![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)## ?? Изучаю![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)## ?? Статистика<p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=<ник>&show_icons=true&theme=dark&hide_border=true" alt="Статистика GitHub" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<ник>&layout=compact&theme=dark&hide_border=true" alt="Топ языков" /></p>
+<h1 align="center">РџСЂРёРІРµС‚, СЏ hashy143 (Р РѕРјР°РЅ) ??</h1>
+
+<p align="center">
+  РР·СѓС‡Р°СЋ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёРµ Рё РїРёС€Сѓ РЅРµР±РѕР»СЊС€РёРµ РїСЂРѕРµРєС‚С‹, РІ С‚РѕРј С‡РёСЃР»Рµ РїР»Р°РіРёРЅС‹ РґР»СЏ Vencord.
+</p>
+
+---
+
+## ?? РЎС‚РµРє
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## ?? РР·СѓС‡Р°СЋ
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+## ?? РЎС‚Р°С‚РёСЃС‚РёРєР°
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hashy143&show_icons=true&theme=dark&hide_border=true" alt="РЎС‚Р°С‚РёСЃС‚РёРєР° GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashy143&layout=compact&theme=dark&hide_border=true" alt="РўРѕРї СЏР·С‹РєРѕРІ" />
+</p>
