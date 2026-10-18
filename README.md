@@ -1,9 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:3776AB&height=180&section=header&text=hashy143&fontSize=38&fontColor=ffffff&fontAlignY=38" width="100%" alt="banner" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=3776AB&center=true&vCenter=true&width=480&lines=Изучаю+программирование;Пишу+небольшие+проекты;" alt="typing" />
-</p>
-
 ---
 
 ## 🛠 Стек
