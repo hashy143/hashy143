@@ -33,16 +33,6 @@ Learning programming, building simple but useful projects.
 
 </div>
 
-## 🚀 Featured project
-
-<div align="center">
-
-<a href="https://github.com/hashy143/vencord-exacttimestamps">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hashy143&repo=vencord-exacttimestamps&theme=tokyonight&hide_border=true&description_lines_count=2" alt="ExactTimestamps repository card"/>
-</a>
-
-</div>
-
 ## 📊 GitHub analytics
 
 <div align="center">
