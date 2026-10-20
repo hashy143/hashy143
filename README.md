@@ -1,30 +1,62 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:3776AB&height=180&section=header&text=hashy143&fontSize=38&fontColor=ffffff&fontAlignY=38" width="100%" alt="banner" />
+<!-- Profile README for hashy143 -->
 
----
+<div align="center">
 
-## 🛠 Стек
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,40:312E81,100:2563EB&height=220&section=header&text=hashy143&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=dev&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="hashy143 banner"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-hashy143-181717?style=for-the-badge&logo=github)](https://github.com/hashy143)
+[![Profile Views](https://komarev.com/ghpvc/?username=hashy143&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS)](https://github.com/hashy143)
 
-🌱 **Сейчас изучаю:** ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+</div>
 
-## 📦 Проекты
+## `> whoami`
 
-| Проект | Описание |
-|--------|----------|
-| [ExactTimestamps](https://github.com/hashy143/vencord-exacttimestamps) | Плагин для Vencord: секунды во времени сообщений Discord |
+Learning programming, building simple but useful projects.
 
-## 📊 Статистика
+## 🛠️ Tech stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hashy143&show_icons=true&theme=tokyonight&hide_border=true" alt="Статистика GitHub" />
-</p>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:3776AB&height=100&section=footer" width="100%" alt="footer" />
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+
+**Tools & Infrastructure**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+## 🚀 Featured project
+
+<div align="center">
+
+<a href="https://github.com/hashy143/vencord-exacttimestamps">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hashy143&repo=vencord-exacttimestamps&theme=tokyonight&hide_border=true&description_lines_count=2" alt="ExactTimestamps repository card"/>
+</a>
+
+</div>
+
+## 📊 GitHub analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hashy143&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashy143&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages"/>
+
+</div>
+
+<div align="center">
+
+*Building things, breaking things, learning how things work.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:312E81&height=100&section=footer" width="100%" alt="footer"/>
+
+</div>
