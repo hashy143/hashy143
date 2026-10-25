@@ -43,7 +43,7 @@ Learning programming, building simple but useful projects.
 
 <div align="center">
 
-*Building things, breaking things, learning how things work.*
+*Code. Optimize. Repeat.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:312E81&height=100&section=footer" width="100%" alt="footer"/>
 
