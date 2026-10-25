@@ -39,8 +39,6 @@ Learning programming, building simple but useful projects.
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=hashy143&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashy143&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages"/>
-
 </div>
 
 <div align="center">
